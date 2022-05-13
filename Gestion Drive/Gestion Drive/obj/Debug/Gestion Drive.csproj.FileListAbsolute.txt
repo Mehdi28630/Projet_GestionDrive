@@ -1,0 +1,89 @@
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.exe.config
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.exe
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.pdb
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.AssemblyReference.cache
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Form1.resources
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Properties.Resources.resources
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.GenerateResource.cache
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.CoreCompileInputs.cache
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.exe
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.pdb
+C:\Users\jacquet\source\repos\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Form2.resources
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.AssemblyReference.cache
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Properties.Resources.resources
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.GenerateResource.cache
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.CoreCompileInputs.cache
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.exe
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.pdb
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.exe.config
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.exe
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.pdb
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Google.Protobuf.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\MySql.Data.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Buffers.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Memory.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\ZstdNet.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Google.Protobuf.pdb
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\Google.Protobuf.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\MySql.Data.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Buffers.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Memory.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.CopyComplete
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Login.resources
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Register.resources
+C:\Users\JACQUET\projet2\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.stock.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.exe.config
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.exe
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Gestion Drive.pdb
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Google.Protobuf.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\MySql.Data.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Buffers.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Memory.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\ZstdNet.dll
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Google.Protobuf.pdb
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\Google.Protobuf.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\MySql.Data.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Buffers.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Memory.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csprojAssemblyReference.cache
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.AjoutPrdt.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Login.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Register.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Properties.Resources.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.stock.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.GenerateResource.cache
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.CoreCompileInputs.cache
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.csproj.CopyComplete
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.exe
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion Drive.pdb
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.voirproduit.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Supprimer.resources
+C:\Users\mehdi\Downloads\projet-2-master\projet-2-master\Gestion Drive\Gestion Drive\obj\Debug\Gestion_Drive.Modifier.resources
